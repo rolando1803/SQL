@@ -1,0 +1,22 @@
+# Cláusula Order By. Ordenando registros. Vídeo 4
+
+![image](https://github.com/rolando1803/SQL/assets/55965131/a9f3e314-d53d-4100-b8b5-63f05037f5b9)
+![image](https://github.com/rolando1803/SQL/assets/55965131/6c9927a4-4f68-4d81-aa97-aee56da40818)
+![image](https://github.com/rolando1803/SQL/assets/55965131/128918fb-9ea0-4216-883e-83491d73ce18)
+![image](https://github.com/rolando1803/SQL/assets/55965131/8ad9db52-1851-4ed3-b12e-e48ef86fd6cd)
+![image](https://github.com/rolando1803/SQL/assets/55965131/b8507742-2c8c-418c-935e-9657c5ae4712)
+![image](https://github.com/rolando1803/SQL/assets/55965131/26f493d2-1001-4b96-a914-290032c68505)
+![image](https://github.com/rolando1803/SQL/assets/55965131/bc2b6035-36e5-46e7-9a67-891098803b5b)
+![image](https://github.com/rolando1803/SQL/assets/55965131/261be8e5-2707-4067-89bc-f1bada9f7334)
+![image](https://github.com/rolando1803/SQL/assets/55965131/515fbd05-6ecd-48e3-bcdd-fd1b7e281d68)
+![image](https://github.com/rolando1803/SQL/assets/55965131/fbd84e98-6f5c-4f57-8229-87ffeb1691aa)
+![image](https://github.com/rolando1803/SQL/assets/55965131/b40444dd-d377-4b74-8bd6-27c5c42f35be)
+![image](https://github.com/rolando1803/SQL/assets/55965131/8fda377f-1063-4d1a-8e60-a0f1153974ce)
+![image](https://github.com/rolando1803/SQL/assets/55965131/71fddb7f-be24-4d18-985a-3634188492f8)
+![image](https://github.com/rolando1803/SQL/assets/55965131/25984614-8615-428c-a4b6-f5b9aed00d92)
+![image](https://github.com/rolando1803/SQL/assets/55965131/a79f3470-3258-4b09-9a2a-fae41ee33775)
+![image](https://github.com/rolando1803/SQL/assets/55965131/00e928c7-e615-4a67-9934-20db59427a4a)
+![image](https://github.com/rolando1803/SQL/assets/55965131/845af668-499e-4e15-895e-d9128a1d5d10)
+![image](https://github.com/rolando1803/SQL/assets/55965131/a7a36b75-3fcd-464a-9e91-52d0312e058d)
+![image](https://github.com/rolando1803/SQL/assets/55965131/52895909-318d-4685-9919-d43af5c00cbf)
+
