@@ -1,0 +1,26 @@
+# Consultas de cálculo. Vídeo 6
+
+![image](https://github.com/rolando1803/SQL/assets/55965131/fb57b392-1bfb-4bdd-8bf9-d18f8d708d33)
+![image](https://github.com/rolando1803/SQL/assets/55965131/b19a91b4-b849-47bb-80b1-1d233c458174)
+![image](https://github.com/rolando1803/SQL/assets/55965131/383d8117-e215-4f9c-a36e-477f10315c3b)
+![image](https://github.com/rolando1803/SQL/assets/55965131/488fa69c-7f12-4265-988c-69285dc6cc96)
+![image](https://github.com/rolando1803/SQL/assets/55965131/e94d80b0-a963-4d31-9051-52065002ce91)
+![image](https://github.com/rolando1803/SQL/assets/55965131/5c3be4cd-5798-4d7a-8432-7af58e033d3e)
+![image](https://github.com/rolando1803/SQL/assets/55965131/39765354-6ce9-4a3f-bdf9-b682f878d51c)
+![image](https://github.com/rolando1803/SQL/assets/55965131/1d69c582-9c31-491f-82c7-0f84669b9195)
+![image](https://github.com/rolando1803/SQL/assets/55965131/8592847d-6d32-4ca3-8068-e29dac9bf584)
+![image](https://github.com/rolando1803/SQL/assets/55965131/1c1e6f43-6666-4891-9015-f27ac429f456)
+![image](https://github.com/rolando1803/SQL/assets/55965131/1d20d0cf-ca2b-4e3e-8351-87d4996c1db0)
+![image](https://github.com/rolando1803/SQL/assets/55965131/f275d8a9-c81d-4e75-9cc2-80940f6ac2e4)
+![image](https://github.com/rolando1803/SQL/assets/55965131/55a227fe-4f89-4bab-9e68-0d4ab4dc9284)
+![image](https://github.com/rolando1803/SQL/assets/55965131/033571df-8013-4463-aaef-de180cc28c41)
+![image](https://github.com/rolando1803/SQL/assets/55965131/4d30d2c6-19d7-4c51-87af-f59cb82b587c)
+![image](https://github.com/rolando1803/SQL/assets/55965131/dfc6a22c-c821-4962-ac61-43ad7583adad)
+![image](https://github.com/rolando1803/SQL/assets/55965131/0dad94b2-2dad-4aed-8b2a-eee70099194c)
+![image](https://github.com/rolando1803/SQL/assets/55965131/bdca9042-1960-4603-985a-ac760215059d)
+![image](https://github.com/rolando1803/SQL/assets/55965131/784130e0-4ed6-46df-bf6c-3702f70296f3)
+![image](https://github.com/rolando1803/SQL/assets/55965131/05945156-694c-40fa-8715-b678768a4375)
+![image](https://github.com/rolando1803/SQL/assets/55965131/2bcbc7d7-fd76-49a4-a577-d2d26ae302e5)
+![image](https://github.com/rolando1803/SQL/assets/55965131/e620555d-7327-4d8b-a29a-3ae17b922c15)
+
+
