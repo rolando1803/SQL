@@ -1,4 +1,4 @@
-# Consultas de cálculo. Vídeo 6
+# Consultas de agrupación o totales. Vídeo 5
 
 ![image](https://github.com/rolando1803/SQL/assets/55965131/fb57b392-1bfb-4bdd-8bf9-d18f8d708d33)
 ![image](https://github.com/rolando1803/SQL/assets/55965131/b19a91b4-b849-47bb-80b1-1d233c458174)
