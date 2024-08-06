@@ -1,5 +1,4 @@
 # Cláusula Order By. Ordenando registros. Vídeo 4
-
 ![image](https://github.com/rolando1803/SQL/assets/55965131/a9f3e314-d53d-4100-b8b5-63f05037f5b9)
 ![image](https://github.com/rolando1803/SQL/assets/55965131/6c9927a4-4f68-4d81-aa97-aee56da40818)
 ![image](https://github.com/rolando1803/SQL/assets/55965131/128918fb-9ea0-4216-883e-83491d73ce18)
